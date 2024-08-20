@@ -1,1 +1,1 @@
-# Medical-Inventory-optimizationn
+# Medical-Inventory-optimization
